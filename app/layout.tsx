@@ -19,7 +19,10 @@ export const metadata: Metadata = {
   title: "NovaGrowth - Digital Marketing Agency",
   description:
     "Strategic digital marketing solutions that drive growth. Expert content strategy, development, creation, and optimization services.",
-  generator: "v0.app",
+  generator: "bhavishy",
+  icons: {
+    icon: "/favicon.png", 
+  },
 }
 
 export default function RootLayout({
@@ -33,3 +36,4 @@ export default function RootLayout({
     </html>
   )
 }
+
