@@ -1,135 +1,64 @@
-# NovaGrowth - Digital Marketing Agency Website
+NovaGrowth – Digital Marketing Agency Website
 
-A modern, responsive website for NovaGrowth digital marketing agency built with Next.js, React, and Tailwind CSS.
+A modern, responsive website for NovaGrowth, a digital marketing agency. Built with Next.js 14, Tailwind CSS v4, and shadcn/ui, it features a sleek design, smooth animations, and SEO optimization.
 
-## 🌟 Features
+🚀 Features
 
-- **Modern Design**: Clean, professional design with vibrant 3D geometric elements
-- **Fully Responsive**: Optimized for all devices (mobile, tablet, desktop)
-- **Fast Performance**: Built with Next.js 14 and optimized for speed
-- **Interactive Elements**: Smooth animations and hover effects
-- **SEO Optimized**: Meta tags and structured data for better search visibility
-- **Accessible**: WCAG compliant with proper ARIA labels and semantic HTML
+Clean, professional UI with vibrant 3D elements
 
-## 🚀 Tech Stack
+Fully responsive (mobile, tablet, desktop)
 
-- **Framework**: Next.js 14 (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS v4
-- **UI Components**: Shadcn/ui
-- **Icons**: Lucide React
-- **Fonts**: Inter, Playfair Display
-- **Deployment**: Vercel
+Smooth animations & interactive components
 
-## 📦 Installation
+SEO optimized with meta tags & structured data
 
-1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/yourusername/novagrowth.git
-   cd novagrowth
-   \`\`\`
+WCAG-compliant accessibility
 
-2. **Install dependencies**
-   \`\`\`bash
-   npm install
-   \`\`\`
+🛠️ Tech Stack
 
-3. **Run the development server**
-   \`\`\`bash
-   npm run dev
-   \`\`\`
+Framework: Next.js 14 (App Router)
 
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
+Language: TypeScript
 
-## 🏗️ Project Structure
+Styling: Tailwind CSS v4
 
-\`\`\`
-novagrowth/
-├── app/                    # Next.js app directory
-│   ├── globals.css        # Global styles
-│   ├── layout.tsx         # Root layout
-│   └── page.tsx          # Home page
-├── components/            # React components
-│   ├── ui/               # Shadcn/ui components
-│   ├── header.tsx        # Navigation header
-│   ├── hero-section.tsx  # Hero section
-│   ├── services-section.tsx
-│   ├── blog-section.tsx
-│   └── footer.tsx        # Footer
-├── public/               # Static assets
-│   └── images/          # Images and logos
-└── lib/                 # Utility functions
-\`\`\`
+UI Components: shadcn/ui, Lucide React
 
-## 🎨 Key Sections
+Fonts: Inter, Playfair Display
 
-- **Hero Section**: Eye-catching introduction with 3D elements
-- **Client Logos**: Trusted by major brands
-- **Services**: Content strategy, development, creation, and optimization
-- **Social Media**: Showcase of social media marketing capabilities
-- **Help Section**: Four key service areas
-- **Blog**: Latest articles and insights
-- **Newsletter**: Subscription with engaging visuals
-- **Footer**: Company information and links
+Deployment: Vercel
 
-## 🛠️ Development
+🎨 Key Sections
 
-### Available Scripts
+Hero with 3D visuals
 
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run start` - Start production server
-- `npm run lint` - Run ESLint
+Services & client showcase
 
-### Customization
+Blog & newsletter subscription
 
-1. **Colors**: Update the color scheme in `app/globals.css`
-2. **Content**: Modify text content in component files
-3. **Images**: Replace images in the `public/images/` directory
-4. **Fonts**: Update font imports in `app/layout.tsx`
+Footer with company info
 
-## 📱 Responsive Design
+📦 Installation
+git clone https://github.com/bhavishy03/novagrowth.git
+cd novagrowth
+npm install
+npm run dev
 
-The website is fully responsive with breakpoints:
-- Mobile: < 768px
-- Tablet: 768px - 1024px
-- Desktop: > 1024px
 
-## 🚀 Deployment
+Navigate to: [https://novagrowth.vercel.app/}
 
-### Deploy to Vercel (Recommended)
+📱 Responsive Design
 
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy with one click
+Mobile: < 768px
 
-### Other Platforms
+Tablet: 768px – 1024px
 
-The project can be deployed to any platform that supports Next.js:
-- Netlify
-- AWS Amplify
-- Railway
-- DigitalOcean App Platform
+Desktop: > 1024px
 
-## 🤝 Contributing
+🚀 Deployment
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+Easily deploy with Vercel
+ or platforms supporting Next.js (Netlify, AWS Amplify, Railway, DigitalOcean).
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For questions or support, please contact:
-- Email: info@novagrowth.com
-- Website: [novagrowth.com](https://novagrowth.com)
-
----
-
-**Built with ❤️ by the NovaGrowth team**
+✨ Built with ❤️ by Bhavishy
